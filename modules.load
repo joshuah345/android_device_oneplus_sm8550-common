@@ -76,6 +76,8 @@ frpc-adsprpc.ko
 rdbg.ko
 lt9611uxc.ko
 oplus_bsp_fw_update.ko
+oplus_bsp_kookong_ir_spi.ko
+oplus_bsp_ir_core.ko
 oplus_bsp_ist_up.ko
 oplus_bsp_ist_down.ko
 oplus_bsp_mxm_up.ko
@@ -123,6 +125,7 @@ i2c-msm-geni.ko
 i3c-master-msm-geni.ko
 qcom_ipc_lite.ko
 synx-driver.ko
+synaptics_tcm2.ko
 qcom-pon.ko
 reboot-mode.ko
 oplus_chg.ko
