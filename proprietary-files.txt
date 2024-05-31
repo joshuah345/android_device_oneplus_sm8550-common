@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus 12R (CPH2585_14.0.0.701(EX01)).
+## are from OnePlus 12R (CPH2585_14.0.0.800(EX01)).
 
 # ACDBs
 vendor/etc/acdbdata/ffv_models/ffv__5.0.1_0.1__3.0.0_0.0__eai_2.10_enpu3.pmd
@@ -1078,7 +1078,6 @@ odm/lib64/libml_util.so
 odm/lib64/libmpbase.so
 odm/lib64/libnpu.so
 odm/lib64/libocce3a.so
-odm/lib64/liboplus-uah-client.so
 odm/lib64/liboplusblur_capture_api.so
 odm/lib64/liboptical_zoom_dc.so
 odm/lib64/liboptical_zoom_vs.so
